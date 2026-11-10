@@ -1,15 +1,12 @@
 {
-  "name": "meshy-3d-agent",
+  "name": "meshy-discovery-test",
   "owner": {
     "name": "Meshy",
     "email": "support@meshy.ai"
   },
-  "metadata": {
-    "description": "The Meshy plugin for Cursor: 3D generation and 3D printing skills, as one plugin at the repository root."
-  },
   "plugins": [
     {
-      "name": "meshy-3d-agent",
+      "name": "meshy-discovery-test",
       "source": "./",
       "description": "Generate 3D models, textures, images and animations with Meshy, and prepare them for 3D printing. Sign in with your Meshy account on Pro or above; generation spends credits."
     }
