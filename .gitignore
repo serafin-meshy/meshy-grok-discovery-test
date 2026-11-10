@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+config.json
+views.json
+events.jsonl
+labels/
+statuses/
+sessions/
+sources/
+__pycache__/
+*.pyc
